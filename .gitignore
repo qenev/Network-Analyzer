@@ -1,0 +1,11 @@
+# Ignore binaries
+network-analyzer
+*.exe
+
+# Ignore log files
+alerts.json
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp

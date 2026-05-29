@@ -1,0 +1,22 @@
+{
+    "port_scan_threshold": 15,
+    "port_scan_window_sec": 5,
+    "rules": [
+        {
+            "id": "TXT-AUTH-001",
+            "description": "Plaintext authentication keyword detected (password)",
+            "action": "alert",
+            "match": {
+                "keywords": ["password", "passwd", "pwd="]
+            }
+        },
+        {
+            "id": "TXT-AUTH-002",
+            "description": "Plaintext authentication keyword detected (AUTH)",
+            "action": "alert",
+            "match": {
+                "keywords": ["AUTH LOGIN", "AUTH PLAIN"]
+            }
+        }
+    ]
+}
