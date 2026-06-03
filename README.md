@@ -298,3 +298,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format structure -->
 <!-- Tweak documentation -->
 <!-- Update structure -->
+<!-- Improve error messages -->
