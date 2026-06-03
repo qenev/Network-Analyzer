@@ -51,3 +51,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document logic flow -->
 <!-- Format comments -->
 <!-- Format structure -->
+<!-- Improve configuration -->
