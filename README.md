@@ -54,3 +54,4 @@ MIT License. See `LICENSE` for details.
 <!-- Improve configuration -->
 <!-- Update comments -->
 <!-- Clean up configuration -->
+<!-- Format error messages -->
