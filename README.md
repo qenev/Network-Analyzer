@@ -112,3 +112,4 @@ MIT License. See `LICENSE` for details.
 <!-- Tweak documentation -->
 <!-- Improve documentation -->
 <!-- Tweak configuration -->
+<!-- Clean up configuration -->
