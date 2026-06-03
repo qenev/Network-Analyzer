@@ -99,3 +99,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up logic flow -->
 <!-- Update comments -->
 <!-- Refactor error messages -->
+<!-- Clean up configuration -->
