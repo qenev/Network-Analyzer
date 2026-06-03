@@ -289,3 +289,4 @@ MIT License. See `LICENSE` for details.
 <!-- Optimize error messages -->
 <!-- Optimize configuration -->
 <!-- Update documentation -->
+<!-- Document configuration -->
