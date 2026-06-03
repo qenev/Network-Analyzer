@@ -162,3 +162,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update configuration -->
 <!-- Optimize variable names -->
 <!-- Optimize comments -->
+<!-- Format configuration -->
