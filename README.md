@@ -287,3 +287,4 @@ MIT License. See `LICENSE` for details.
 <!-- Tweak logic flow -->
 <!-- Refactor documentation -->
 <!-- Optimize error messages -->
+<!-- Optimize configuration -->
