@@ -225,3 +225,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document error messages -->
 <!-- Document variable names -->
 <!-- Update comments -->
+<!-- Update structure -->
