@@ -66,3 +66,4 @@ MIT License. See `LICENSE` for details.
 <!-- Improve documentation -->
 <!-- Optimize comments -->
 <!-- Tweak error messages -->
+<!-- Document error messages -->
