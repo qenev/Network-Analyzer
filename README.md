@@ -266,3 +266,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up comments -->
 <!-- Optimize comments -->
 <!-- Clean up parameters -->
+<!-- Document comments -->
