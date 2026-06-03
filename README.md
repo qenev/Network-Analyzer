@@ -245,3 +245,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format variable names -->
 <!-- Refactor structure -->
 <!-- Document logic flow -->
+<!-- Improve variable names -->
