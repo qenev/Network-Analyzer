@@ -256,3 +256,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor documentation -->
 <!-- Improve parameters -->
 <!-- Refactor structure -->
+<!-- Format configuration -->
