@@ -280,3 +280,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up comments -->
 <!-- Format logic flow -->
 <!-- Refactor configuration -->
+<!-- Improve documentation -->
