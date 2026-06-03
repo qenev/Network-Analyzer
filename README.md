@@ -73,3 +73,4 @@ MIT License. See `LICENSE` for details.
 <!-- Improve logic flow -->
 <!-- Refactor variable names -->
 <!-- Clean up variable names -->
+<!-- Clean up documentation -->
