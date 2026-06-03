@@ -137,3 +137,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up structure -->
 <!-- Improve variable names -->
 <!-- Refactor structure -->
+<!-- Refactor variable names -->
