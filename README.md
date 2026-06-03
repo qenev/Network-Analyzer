@@ -230,3 +230,4 @@ MIT License. See `LICENSE` for details.
 <!-- Improve comments -->
 <!-- Document structure -->
 <!-- Improve logic flow -->
+<!-- Update documentation -->
