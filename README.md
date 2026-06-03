@@ -135,3 +135,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document error messages -->
 <!-- Clean up structure -->
 <!-- Clean up structure -->
+<!-- Improve variable names -->
