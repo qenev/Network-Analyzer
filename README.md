@@ -181,3 +181,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up configuration -->
 <!-- Document comments -->
 <!-- Update configuration -->
+<!-- Document structure -->
