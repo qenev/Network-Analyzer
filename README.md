@@ -232,3 +232,4 @@ MIT License. See `LICENSE` for details.
 <!-- Improve logic flow -->
 <!-- Update documentation -->
 <!-- Refactor structure -->
+<!-- Refactor documentation -->
