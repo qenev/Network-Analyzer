@@ -253,3 +253,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format variable names -->
 <!-- Optimize configuration -->
 <!-- Document comments -->
+<!-- Refactor documentation -->
