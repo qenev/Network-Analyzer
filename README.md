@@ -132,3 +132,4 @@ MIT License. See `LICENSE` for details.
 <!-- Tweak parameters -->
 <!-- Update logic flow -->
 <!-- Refactor documentation -->
+<!-- Document error messages -->
