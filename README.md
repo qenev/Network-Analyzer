@@ -182,3 +182,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document comments -->
 <!-- Update configuration -->
 <!-- Document structure -->
+<!-- Refactor parameters -->
