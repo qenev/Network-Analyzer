@@ -194,3 +194,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor configuration -->
 <!-- Tweak structure -->
 <!-- Clean up configuration -->
+<!-- Format error messages -->
