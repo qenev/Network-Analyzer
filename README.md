@@ -254,3 +254,4 @@ MIT License. See `LICENSE` for details.
 <!-- Optimize configuration -->
 <!-- Document comments -->
 <!-- Refactor documentation -->
+<!-- Improve parameters -->
