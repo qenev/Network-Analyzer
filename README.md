@@ -295,3 +295,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update comments -->
 <!-- Update structure -->
 <!-- Tweak documentation -->
+<!-- Format structure -->
