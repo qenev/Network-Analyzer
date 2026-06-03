@@ -195,3 +195,4 @@ MIT License. See `LICENSE` for details.
 <!-- Tweak structure -->
 <!-- Clean up configuration -->
 <!-- Format error messages -->
+<!-- Clean up documentation -->
