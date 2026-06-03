@@ -100,3 +100,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update comments -->
 <!-- Refactor error messages -->
 <!-- Clean up configuration -->
+<!-- Format error messages -->
