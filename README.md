@@ -291,3 +291,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update documentation -->
 <!-- Document configuration -->
 <!-- Document structure -->
+<!-- Refactor documentation -->
