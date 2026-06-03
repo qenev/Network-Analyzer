@@ -259,3 +259,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format configuration -->
 <!-- Clean up comments -->
 <!-- Update logic flow -->
+<!-- Clean up structure -->
