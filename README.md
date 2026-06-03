@@ -196,3 +196,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up configuration -->
 <!-- Format error messages -->
 <!-- Clean up documentation -->
+<!-- Update structure -->
