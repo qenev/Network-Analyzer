@@ -255,3 +255,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document comments -->
 <!-- Refactor documentation -->
 <!-- Improve parameters -->
+<!-- Refactor structure -->
