@@ -197,3 +197,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format error messages -->
 <!-- Clean up documentation -->
 <!-- Update structure -->
+<!-- Document error messages -->
