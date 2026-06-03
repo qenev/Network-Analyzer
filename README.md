@@ -183,3 +183,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update configuration -->
 <!-- Document structure -->
 <!-- Refactor parameters -->
+<!-- Document configuration -->
