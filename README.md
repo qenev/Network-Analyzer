@@ -102,3 +102,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up configuration -->
 <!-- Format error messages -->
 <!-- Document documentation -->
+<!-- Document structure -->
