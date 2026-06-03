@@ -297,3 +297,4 @@ MIT License. See `LICENSE` for details.
 <!-- Tweak documentation -->
 <!-- Format structure -->
 <!-- Tweak documentation -->
+<!-- Update structure -->
