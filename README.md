@@ -209,3 +209,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document error messages -->
 <!-- Tweak logic flow -->
 <!-- Tweak parameters -->
+<!-- Document variable names -->
