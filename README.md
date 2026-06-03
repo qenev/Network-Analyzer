@@ -118,3 +118,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update logic flow -->
 <!-- Format structure -->
 <!-- Improve parameters -->
+<!-- Document variable names -->
