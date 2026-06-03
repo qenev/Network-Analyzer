@@ -101,3 +101,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor error messages -->
 <!-- Clean up configuration -->
 <!-- Format error messages -->
+<!-- Document documentation -->
