@@ -192,3 +192,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor logic flow -->
 <!-- Tweak logic flow -->
 <!-- Refactor configuration -->
+<!-- Tweak structure -->
