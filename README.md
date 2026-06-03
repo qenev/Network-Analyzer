@@ -226,3 +226,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document variable names -->
 <!-- Update comments -->
 <!-- Update structure -->
+<!-- Improve parameters -->
