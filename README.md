@@ -271,3 +271,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document documentation -->
 <!-- Improve comments -->
 <!-- Tweak logic flow -->
+<!-- Refactor configuration -->
