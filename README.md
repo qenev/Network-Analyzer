@@ -288,3 +288,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor documentation -->
 <!-- Optimize error messages -->
 <!-- Optimize configuration -->
+<!-- Update documentation -->
