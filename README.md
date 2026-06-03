@@ -261,3 +261,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update logic flow -->
 <!-- Clean up structure -->
 <!-- Format error messages -->
+<!-- Improve variable names -->
