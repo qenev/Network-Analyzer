@@ -222,3 +222,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update variable names -->
 <!-- Optimize comments -->
 <!-- Update comments -->
+<!-- Document error messages -->
