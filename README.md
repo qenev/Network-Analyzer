@@ -133,3 +133,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update logic flow -->
 <!-- Refactor documentation -->
 <!-- Document error messages -->
+<!-- Clean up structure -->
