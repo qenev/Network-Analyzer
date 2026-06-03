@@ -184,3 +184,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document structure -->
 <!-- Refactor parameters -->
 <!-- Document configuration -->
+<!-- Optimize configuration -->
