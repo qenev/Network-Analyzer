@@ -56,3 +56,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up configuration -->
 <!-- Format error messages -->
 <!-- Refactor error messages -->
+<!-- Format structure -->
