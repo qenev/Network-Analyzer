@@ -244,3 +244,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update configuration -->
 <!-- Format variable names -->
 <!-- Refactor structure -->
+<!-- Document logic flow -->
