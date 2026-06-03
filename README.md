@@ -134,3 +134,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor documentation -->
 <!-- Document error messages -->
 <!-- Clean up structure -->
+<!-- Clean up structure -->
