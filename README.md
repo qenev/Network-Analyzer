@@ -170,3 +170,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor logic flow -->
 <!-- Optimize parameters -->
 <!-- Format configuration -->
+<!-- Document error messages -->
