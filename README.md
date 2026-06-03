@@ -263,3 +263,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format error messages -->
 <!-- Improve variable names -->
 <!-- Format configuration -->
+<!-- Clean up comments -->
