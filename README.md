@@ -290,3 +290,4 @@ MIT License. See `LICENSE` for details.
 <!-- Optimize configuration -->
 <!-- Update documentation -->
 <!-- Document configuration -->
+<!-- Document structure -->
