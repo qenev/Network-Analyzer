@@ -50,3 +50,4 @@ MIT License. See `LICENSE` for details.
 <!-- Tweak documentation -->
 <!-- Document logic flow -->
 <!-- Format comments -->
+<!-- Format structure -->
