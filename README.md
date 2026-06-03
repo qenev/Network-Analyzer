@@ -176,3 +176,4 @@ MIT License. See `LICENSE` for details.
 <!-- Improve variable names -->
 <!-- Document variable names -->
 <!-- Improve comments -->
+<!-- Refactor error messages -->
