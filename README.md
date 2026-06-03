@@ -260,3 +260,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up comments -->
 <!-- Update logic flow -->
 <!-- Clean up structure -->
+<!-- Format error messages -->
