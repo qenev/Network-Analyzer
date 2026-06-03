@@ -300,3 +300,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update structure -->
 <!-- Improve error messages -->
 <!-- Clean up configuration -->
+<!-- Improve documentation -->
