@@ -141,3 +141,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format comments -->
 <!-- Optimize error messages -->
 <!-- Update variable names -->
+<!-- Format configuration -->
