@@ -202,3 +202,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format comments -->
 <!-- Document variable names -->
 <!-- Improve structure -->
+<!-- Format error messages -->
