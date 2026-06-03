@@ -206,3 +206,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format comments -->
 <!-- Tweak documentation -->
 <!-- Tweak documentation -->
+<!-- Document error messages -->
