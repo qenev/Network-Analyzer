@@ -105,3 +105,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document structure -->
 <!-- Tweak documentation -->
 <!-- Format configuration -->
+<!-- Document error messages -->
