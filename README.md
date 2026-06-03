@@ -146,3 +146,4 @@ MIT License. See `LICENSE` for details.
 <!-- Optimize configuration -->
 <!-- Improve logic flow -->
 <!-- Clean up variable names -->
+<!-- Document error messages -->
