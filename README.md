@@ -165,3 +165,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format configuration -->
 <!-- Tweak logic flow -->
 <!-- Document parameters -->
+<!-- Optimize structure -->
