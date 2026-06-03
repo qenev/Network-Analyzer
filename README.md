@@ -173,3 +173,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document error messages -->
 <!-- Clean up logic flow -->
 <!-- Improve comments -->
+<!-- Improve variable names -->
