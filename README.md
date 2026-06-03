@@ -74,3 +74,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor variable names -->
 <!-- Clean up variable names -->
 <!-- Clean up documentation -->
+<!-- Improve documentation -->
