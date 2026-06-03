@@ -167,3 +167,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document parameters -->
 <!-- Optimize structure -->
 <!-- Tweak variable names -->
+<!-- Refactor logic flow -->
