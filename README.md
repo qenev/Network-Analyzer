@@ -65,3 +65,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update variable names -->
 <!-- Improve documentation -->
 <!-- Optimize comments -->
+<!-- Tweak error messages -->
