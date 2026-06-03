@@ -179,3 +179,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor error messages -->
 <!-- Tweak error messages -->
 <!-- Clean up configuration -->
+<!-- Document comments -->
