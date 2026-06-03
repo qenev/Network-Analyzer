@@ -279,3 +279,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up error messages -->
 <!-- Clean up comments -->
 <!-- Format logic flow -->
+<!-- Refactor configuration -->
