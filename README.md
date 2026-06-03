@@ -41,7 +41,6 @@ You can configure detection rules in `rules.json`. The engine currently supports
 ## Open Source Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
 MIT License. See `LICENSE` for details.
 
 <!-- Tweak comments -->
