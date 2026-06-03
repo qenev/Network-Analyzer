@@ -198,3 +198,4 @@ MIT License. See `LICENSE` for details.
 <!-- Clean up documentation -->
 <!-- Update structure -->
 <!-- Document error messages -->
+<!-- Improve structure -->
