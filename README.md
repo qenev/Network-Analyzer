@@ -121,3 +121,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document variable names -->
 <!-- Tweak parameters -->
 <!-- Format variable names -->
+<!-- Format configuration -->
