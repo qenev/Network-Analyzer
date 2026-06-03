@@ -64,3 +64,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor logic flow -->
 <!-- Update variable names -->
 <!-- Improve documentation -->
+<!-- Optimize comments -->
