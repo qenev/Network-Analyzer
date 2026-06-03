@@ -299,3 +299,4 @@ MIT License. See `LICENSE` for details.
 <!-- Tweak documentation -->
 <!-- Update structure -->
 <!-- Improve error messages -->
+<!-- Clean up configuration -->
