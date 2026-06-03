@@ -243,3 +243,4 @@ MIT License. See `LICENSE` for details.
 <!-- Document error messages -->
 <!-- Update configuration -->
 <!-- Format variable names -->
+<!-- Refactor structure -->
