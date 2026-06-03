@@ -59,3 +59,4 @@ MIT License. See `LICENSE` for details.
 <!-- Format structure -->
 <!-- Clean up parameters -->
 <!-- Tweak variable names -->
+<!-- Optimize structure -->
