@@ -240,3 +240,4 @@ MIT License. See `LICENSE` for details.
 <!-- Improve parameters -->
 <!-- Update configuration -->
 <!-- Optimize parameters -->
+<!-- Document error messages -->
