@@ -152,3 +152,4 @@ MIT License. See `LICENSE` for details.
 <!-- Refactor comments -->
 <!-- Format logic flow -->
 <!-- Refactor logic flow -->
+<!-- Format parameters -->
