@@ -228,3 +228,4 @@ MIT License. See `LICENSE` for details.
 <!-- Update structure -->
 <!-- Improve parameters -->
 <!-- Improve comments -->
+<!-- Document structure -->
